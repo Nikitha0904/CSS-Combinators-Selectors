@@ -1,0 +1,39 @@
+nav ul{
+    background-color: black;
+}
+
+section h2 + p{
+    color:rgb(255, 0, 13);
+}
+
+.paragraphs:first-of-type {
+    border: 1px solid rgb(7, 129, 64);
+  }
+
+.links a{
+    font-weight: bold;
+}
+
+.paragraphs p:nth-child(3) {
+    font-size: 18px;
+  }
+
+nav li{
+    margin-bottom: 5px;
+}
+
+.links a:first-child {
+    color: rgb(195, 255, 0);
+  }
+
+.links a:nth-child(2){
+    text-decoration: underline;
+}
+
+section{
+    padding: 25px;
+}
+
+footer{
+    border: 2px solid palevioletred;
+}
